@@ -20,3 +20,8 @@ The dataset represents a list of football players participating in the national 
 10. **Country**: The country of origin of the player.
 
 This dataset is taken from Kaggle.
+
+**Import Data**
+
+Import the dataset into R:
+
